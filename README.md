@@ -1,3 +1,3 @@
-# booking-hotel
+# Booking-hotel
 
-Website Quản lý khách sạn
+Website Quản lý khách sạn - chức năng book phòng
